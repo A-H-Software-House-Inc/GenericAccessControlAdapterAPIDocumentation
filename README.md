@@ -1,11 +1,6 @@
 # Generic Access Control Adapter Integration API Guide
 
-<<<<<<< HEAD
-**Document version 1.0.0 (2025-03-11)**
-Copyright © 2004-2025 A&H Software House, Inc. All Rights Reserved.
-=======
-**Document version 1.0.0 (2025-03-11)<br/>Copyright © 2004-2025 A&H Software House, Inc.**
->>>>>>> 67eba05d14e83f57ff4121993892e9c861198d5c
+**Document version 1.0.0 (2025-03-11)** <br> **Copyright © 2004-2025 A&H Software House, Inc.**
 
 ## Introduction
 
@@ -16,6 +11,7 @@ The VMS software includes a universal access control client, designed to seamles
 **Intended Audience:** This guide is intended for Access Control manufacturers and developers responsible for implementing API endpoints to integrate with the VMS.
 
 To ensure compatibility with the VMS, it is essential that access control systems implement the API endpoints specified in this guide.
+
 
 <div style="page-break-after: always;"></div>
 
